@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Thinkerva Dev",
+      "runtimeExecutable": "/bin/sh",
+      "runtimeArgs": ["-c", "cd /Users/raorizwaniqbal/Downloads/drnaveed-nextjs && npm run dev"],
+      "port": 3000
+    }
+  ]
+}
